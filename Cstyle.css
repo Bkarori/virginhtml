@@ -1,0 +1,28 @@
+#WOMAN{
+    border: 2px skyblue;
+    text-align: center;
+    padding: 15px;
+    background-color: deepskyblue;
+    margin: 20px;
+}
+#man{
+    border: 2px brown;
+    text-align: center;
+    padding: 15px;
+    background-color: red;
+    margin: 20px;
+}
+#MAN{
+    border: 2px coral;
+    text-align: center;
+    padding: 15px;
+    background-color: blanchedalmond;
+    margin: 20px;
+}
+#woman{
+    border: 2px darkorange;
+    text-align: center;
+    padding: 15px;
+    background-color: chartreuse;
+    margin: 20px;
+}

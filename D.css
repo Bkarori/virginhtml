@@ -1,0 +1,51 @@
+#fname
+{
+    background-color: aqua;
+    padding: 2px;
+    text-align: center;
+    margin: 10px;
+    border: 2px solid;
+}
+#lname
+{
+    background-color: red;
+    padding: 2px;
+    border: 2px solid;
+    text-align: center;
+    margin: 10px;
+}
+#female
+{
+    border: 2px solid;
+    background-color: coral;
+    padding: 2px;
+    text-align: center;
+    margin: 10px;
+}
+#male
+{
+    border: darkgreen 2px;
+    background-color: aliceblue;
+    padding: 2px;
+    text-align: center;
+    margin: 10px;
+}
+#pass
+{
+    border: 2px solid;
+    padding: 2px;
+    background-color: cadetblue;
+    text-align: center;
+    margin: 10px;
+}
+#baruapepe
+{
+    border: 2ppx;
+padding: 2px;
+    background-color:rosybrown ;
+    text-align: center;
+    margin: 20px;
+}
+h2{
+    color: red;
+}

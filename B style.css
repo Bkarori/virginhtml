@@ -1,0 +1,28 @@
+#laptops{
+    border: 2px solid royalblue;
+    text-align: center;
+    padding: 15px;
+    background-color: aqua;
+    margin: 20px;
+}
+#clothes{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    background-color: darkgreen;
+    margin: 20px;
+}
+#phone{
+    border: 2px solid blanchedalmond;
+    text-align: center;
+    padding: 15px;
+    background-color: chartreuse;
+    margin: 20px;
+}
+#shoes{
+    border: 2px solid darkorange;
+    text-align: center;
+    padding: 15px;
+    background-color: deepskyblue;
+    margin: 20px;
+}
